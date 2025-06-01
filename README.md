@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Mariem! 👋
 
-<!--
-**Mariem009/Mariem009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a high school student who loves exploring the world of code and creativity.
 
-Here are some ideas to get you started:
+💻 Currently learning **Python** and diving into the world of **web development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I enjoy solving puzzles, designing cool stuff, and working on **hands-on projects** that help me learn by doing.
+
+🌱 My goal is to become a **web developer** and build awesome things for the web!
+
+✨ Fun facts:
+- I love learning new things and challenging myself 💡
+- I'm all about mixing logic 🧩 with creativity 🎨
+
+Thanks for stopping by! 😊
